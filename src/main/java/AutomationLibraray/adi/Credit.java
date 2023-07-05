@@ -8,6 +8,8 @@ public class Credit {
 	 * point : by default set 100,
 	 * 
 	 * book : Book object
+	 * 
+	 * Ali will be working on this class
 	 */
 	
 	
